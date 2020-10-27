@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="Borrar">#D50000</color>
+    <color name="botonesNumericos">#F0BA59</color>
+    <color name="botonesOperadores">#5B3720</color>
+    <color name="Botones">#FFFFFF</color>
+    <color name="Operadores">#F8D349</color>
+    <color name="Adicionales">#5B3720</color>
+</resources>
